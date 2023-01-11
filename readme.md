@@ -18,3 +18,4 @@ Approach 1 app: https://dvegamar-keras-simple-reg-1-main-ex40td.streamlit.app/
 
 Approach 2 app: https://dvegamar-keras-simple-reg-2-main-nvnr5p.streamlit.app/
 
+Approach 3 app: https://dvegamar-keras-simple-reg-3-main-1qrsl5.streamlit.app/
